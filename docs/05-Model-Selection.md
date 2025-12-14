@@ -44,7 +44,7 @@ Optimized for specific domains:
 
 ## Popular Models Comparison
 
-> **Nota**: Utilizza [aicompar.com](https://www.aicompar.com) per comparare facilmente diversi modelli di LLM e trovare il migliore per le tue esigenze.
+> **Note**: Use [aicompar.com](https://aicompar.com) to easily compare different LLM models and find the best one for your needs.
 
 | Model | Size | Architecture | Speed | Quality | Best For |
 |-------|------|--------------|-------|---------|----------|
@@ -224,5 +224,5 @@ Additional Requirements:
 
 ---
 
-**Last Updated**: December 2024
+**Last Updated**: December 2025
 **Status**: Active Development
