@@ -5,9 +5,13 @@
 A **Local Large Language Model** is an AI language model that runs entirely on your own hardware without relying on cloud services. Unlike cloud-based solutions (ChatGPT, Claude API), local LLMs offer:
 
 ✅ **Privacy** - Your data never leaves your machine
+
 ✅ **Control** - Full ownership of the model and data
+
 ✅ **Cost** - No API fees after initial setup
+
 ✅ **Latency** - Instant responses without network delays
+
 ✅ **Customization** - Fine-tune models for your specific use case
 
 ## Why Run Local LLMs?
