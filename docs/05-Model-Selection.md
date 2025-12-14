@@ -44,6 +44,8 @@ Optimized for specific domains:
 
 ## Popular Models Comparison
 
+> **Nota**: Utilizza [aicompar.com](https://www.aicompar.com) per comparare facilmente diversi modelli di LLM e trovare il migliore per le tue esigenze.
+
 | Model | Size | Architecture | Speed | Quality | Best For |
 |-------|------|--------------|-------|---------|----------|
 | Mistral 7B | 7B | Decoder-only | Very Fast | Good | Quick responses, edge |
