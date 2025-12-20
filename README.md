@@ -36,19 +36,19 @@ This repository contains **detailed professional documentation** for running and
 ### **Part 2: Tools & Setup**
 
 3. **[🚀👷 Tools & Frameworks](docs/03-Tools-Frameworks.md)** - Ollama, LM Studio, vLLM, llama.cpp comparison
-4. **[📐 Setup & Installation](docs/04-Setup-Installation.md)** *()* - Hardware, dependencies, configuration
+4. **[📐 Setup & Installation](docs/04-Setup-Installation.md)** - Hardware, dependencies, configuration
 
 ### **Part 3: Customization & Optimization**
 
-5. **[🧠 Model Selection](docs/05-Model-Selection.md)** *()* - Popular models, use cases, performance metrics
-6. **[🔧 Fine-Tuning Guide](docs/06-Fine-Tuning-Guide.md)** *()* - Data prep, LoRA, QLoRA, evaluation
-7. **[🔍 RAG Implementation](docs/07-RAG-Implementation.md)** *()* - Vector embeddings, retrieval, advanced patterns
+5. **[🧠 Model Selection](docs/05-Model-Selection.md)** - Popular models, use cases, performance metrics
+6. **[🔧 Fine-Tuning Guide](docs/06-Fine-Tuning-Guide.md)** - Data prep, LoRA, QLoRA, evaluation
+7. **[🔍 RAG Implementation](docs/07-RAG-Implementation.md)** - Vector embeddings, retrieval, advanced patterns
 
 ### **Part 4: Production & Integration**
 
-8. **[📄 Deployment & Production](docs/08-Deployment-Production.md)** *()* - Docker, API servers, load balancing, monitoring
-9. **[🤖 Integration Examples](docs/09-Integration-Examples.md)** *()* - Python, REST API, web apps, Discord/Slack bots
-10. **[📍 Best Practices](docs/10-Best-Practices.md)** *()* - Security, optimization, troubleshooting
+8. **[📄 Deployment & Production](docs/08-Deployment-Production.md)** - Docker, API servers, load balancing, monitoring
+9. **[🤖 Integration Examples](docs/09-Integration-Examples.md)** - Python, REST API, web apps, Discord/Slack bots
+10. **[📍 Best Practices](docs/10-Best-Practices.md)** - Security, optimization, troubleshooting
 
 ---
 
