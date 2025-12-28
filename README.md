@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Status: Active](https://img.shields.io/badge/Status-Active%20Development-brightgreen)](#)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202025-blue)](#)
 
 > **The most comprehensive, professional guide to implementing, optimizing, and deploying Large Language Models entirely on your own hardware. Production-ready documentation for AI enthusiasts, developers, and enterprises.**
